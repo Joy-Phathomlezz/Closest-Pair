@@ -64,6 +64,7 @@ If the dataset is small (`<= 3 points`), the algorithm uses brute force:
 |----------|----------------|
 | **Brute Force** | `O(n^2)` |
 | **Divide & Conquer** | `O(n log n)` |
+| **Sorted Points with Divide & Conquer** | `O(n)` |
 
 ---
 ## Use Casses
